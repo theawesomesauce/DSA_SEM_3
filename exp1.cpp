@@ -22,7 +22,7 @@ int main(){
 			cout<<"/n";
 			break;
 		case 2:
-			cout<<"enter the index to insert: ";
+			cout<<"enter the position to insert: ";
 			cin>>index;
 			cout<<"enter the element you want to add: ";
 			cin>>added;
